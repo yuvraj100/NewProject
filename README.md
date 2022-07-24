@@ -1,1 +1,2 @@
-# Devops Training is going on
+# Devops Training
+#Checking router to git connectivity
